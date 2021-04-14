@@ -1,0 +1,7 @@
+type = "webpack"
+zone_id = ""
+account_id = "0ce649ec8baabea8acd9fcc7d8de99ff"
+route = ""
+workers_dev = true
+webpack_config = "webpack.config.js"
+name = "discord-slash-profiles"
